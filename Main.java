@@ -10,6 +10,7 @@ public class Main {
     MergeSort.sort();
     Anagrams.check();
     PrimeNumbers.find();
+    FindNumberGame.find();
 
   }
 }
