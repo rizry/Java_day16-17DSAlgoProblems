@@ -6,6 +6,7 @@ public class Main {
     Permutations.permutation("abc");
     BinarySearch.search();
     InsertionSort.sort();
-    
+    BubbleSort.sort();
+
   }
 }
