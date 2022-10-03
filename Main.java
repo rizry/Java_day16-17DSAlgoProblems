@@ -9,6 +9,7 @@ public class Main {
     BubbleSort.sort();
     MergeSort.sort();
     Anagrams.check();
+    PrimeNumbers.find();
 
   }
 }
