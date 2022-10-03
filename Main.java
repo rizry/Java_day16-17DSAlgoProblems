@@ -8,6 +8,7 @@ public class Main {
     InsertionSort.sort();
     BubbleSort.sort();
     MergeSort.sort();
+    Anagrams.check();
 
   }
 }
