@@ -7,6 +7,7 @@ public class Main {
     BinarySearch.search();
     InsertionSort.sort();
     BubbleSort.sort();
+    MergeSort.sort();
 
   }
 }
